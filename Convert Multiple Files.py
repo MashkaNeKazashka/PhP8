@@ -1,5 +1,3 @@
-# Repository: python-markdown-to-html
-
 
 import markdown
 import os
